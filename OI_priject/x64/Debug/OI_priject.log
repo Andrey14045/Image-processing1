@@ -1,0 +1,42 @@
+﻿  MainF.cpp
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(49,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(93,40): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(94,40): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(95,40): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(120,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(141,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(142,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(143,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(144,40): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(145,40): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(146,40): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\днс\source\repos\OI_priject\OI_priject\MainF.cpp(156,41): warning C4244: =: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  OI_priject.vcxproj -> C:\Users\днс\source\repos\OI_priject\x64\Debug\OI_priject.exe
